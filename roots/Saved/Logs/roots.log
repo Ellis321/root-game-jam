@@ -4673,3 +4673,23 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.03-12.16.48:040][263]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blue_print/bp_root_Auto7
 [2023.02.03-12.16.48:040][263]LogSavePackage: Moving 'D:/1901692/root-game-jam/roots/Saved/bp_root_Auto79C43B9D04381630B3D8AE9804D1E5B4A.tmp' to 'D:/1901692/root-game-jam/roots/Saved/Autosaves/Game/Blue_print/bp_root_Auto7.uasset'
 [2023.02.03-12.16.48:041][263]LogFileHelpers: Auto-saving content packages took 0.018
+[2023.02.03-12.17.38:059][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.02.03-12.17.38:119][457]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/MT/P99HZPSFCNV379GVQSXNLK
+[2023.02.03-12.17.38:120][457]LogSavePackage: Moving 'D:/1901692/root-game-jam/roots/Saved/P99HZPSFCNV379GVQSXNLK8B66CAC34CA26746C9274E9BC1E4C7C6.tmp' to 'D:/1901692/root-game-jam/roots/Content/__ExternalActors__/NewMap/4/MT/P99HZPSFCNV379GVQSXNLK.uasset'
+[2023.02.03-12.17.38:128][457]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/HE/Y2FQFF7NQDGB1DODSZZF6A
+[2023.02.03-12.17.38:128][457]LogSavePackage: Moving 'D:/1901692/root-game-jam/roots/Saved/Y2FQFF7NQDGB1DODSZZF6AB2EA444D49D14E48E36A17832DAF26D1.tmp' to 'D:/1901692/root-game-jam/roots/Content/__ExternalActors__/NewMap/8/HE/Y2FQFF7NQDGB1DODSZZF6A.uasset'
+[2023.02.03-12.17.38:132][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/spriets/NewPaperSprite" FILE="D:/1901692/root-game-jam/roots/Content/spriets/NewPaperSprite.uasset" SILENT=true
+[2023.02.03-12.17.38:135][457]LogSavePackage: Moving output files for package: /Game/spriets/NewPaperSprite
+[2023.02.03-12.17.38:135][457]LogSavePackage: Moving 'D:/1901692/root-game-jam/roots/Saved/NewPaperSprite56AD362D4E5905166D38E0B015420A7F.tmp' to 'D:/1901692/root-game-jam/roots/Content/spriets/NewPaperSprite.uasset'
+[2023.02.03-12.17.38:137][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blue_print/bp_root" FILE="D:/1901692/root-game-jam/roots/Content/Blue_print/bp_root.uasset" SILENT=true
+[2023.02.03-12.17.38:153][457]LogSavePackage: Moving output files for package: /Game/Blue_print/bp_root
+[2023.02.03-12.17.38:155][457]LogSavePackage: Moving 'D:/1901692/root-game-jam/roots/Saved/bp_root6F5162884416DD4C2BD41E826B077639.tmp' to 'D:/1901692/root-game-jam/roots/Content/Blue_print/bp_root.uasset'
+[2023.02.03-12.17.38:158][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blue_print/playercon" FILE="D:/1901692/root-game-jam/roots/Content/Blue_print/playercon.uasset" SILENT=true
+[2023.02.03-12.17.38:165][457]LogSavePackage: Moving output files for package: /Game/Blue_print/playercon
+[2023.02.03-12.17.38:166][457]LogSavePackage: Moving 'D:/1901692/root-game-jam/roots/Saved/playerconE3A1D2F04C4C276706EEB19F603945FF.tmp' to 'D:/1901692/root-game-jam/roots/Content/Blue_print/playercon.uasset'
+[2023.02.03-12.17.38:194][457]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.03-12.17.38:194][457]LogContentValidation: Display: Validating PaperSprite /Game/spriets/NewPaperSprite.NewPaperSprite
+[2023.02.03-12.17.38:194][457]LogContentValidation: Display: Validating Blueprint /Game/Blue_print/bp_root.bp_root
+[2023.02.03-12.17.38:194][457]LogContentValidation: Display: Validating BP_ROOTablePLAtform_C /Game/NewMap.NewMap:PersistentLevel.BP_ROOTablePLAtform_C_UAID_D89EF311EC46066301_1581652761
+[2023.02.03-12.17.38:194][457]LogContentValidation: Display: Validating bp_root_C /Game/NewMap.NewMap:PersistentLevel.root_C_UAID_D89EF311EC46FF6201_1558751528
+[2023.02.03-12.17.38:194][457]LogContentValidation: Display: Validating Blueprint /Game/Blue_print/playercon.playercon
