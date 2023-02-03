@@ -8278,3 +8278,40 @@ Script Stack (0 frames):
 [2023.02.03-18.17.04:157][121]LogContentValidation: Display: Validating bp_root_C /Game/NewMap.NewMap:PersistentLevel.root_C_UAID_D89EF311EC46FF6201_1558751528
 [2023.02.03-18.17.04:157][121]LogContentValidation: Display: Validating BP_wind_C /Game/NewMap.NewMap:PersistentLevel.BP_wind_C_UAID_D89EF311EC460E6301_1232284173
 [2023.02.03-18.17.04:157][121]LogContentValidation: Display: Validating BP_windSpawn_C /Game/NewMap.NewMap:PersistentLevel.BP_windSpawn_C_UAID_D89EF311EC46106301_1710574526
+[2023.02.03-18.22.08:462][911]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.03-18.22.12:469][911]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.03-18.22.12:479][911]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.03-18.22.12:485][911]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.03-18.22.12:501][912]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.02.03-18.22.28:927][844]LogContentBrowser: Attempting asset rename: NewBlueprint -> WinBox
+[2023.02.03-18.22.28:933][844]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.03-18.23.25:441][ 54]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.03-18.24.30:336][738]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.03-18.24.37:545][374]BlueprintLog: New page: Compile bp_root
+[2023.02.03-18.24.37:553][374]LogBlueprint: Error: [AssetLog] D:\1901692\root-game-jam\roots\Content\Blue_print\bp_root.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Viewport  to imply a specific type.
+[2023.02.03-18.24.37:554][374]LogBlueprint: Error: [AssetLog] D:\1901692\root-game-jam\roots\Content\Blue_print\bp_root.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2023.02.03-18.24.37:700][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2023.02.03-18.24.38:442][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blue_print/bp_root" FILE="D:/1901692/root-game-jam/roots/Content/Blue_print/bp_root.uasset" SILENT=true
+[2023.02.03-18.24.38:469][403]LogSavePackage: Moving output files for package: /Game/Blue_print/bp_root
+[2023.02.03-18.24.38:470][403]LogSavePackage: Moving 'D:/1901692/root-game-jam/roots/Saved/bp_rootAFE31FC54053A4B3FBE949A2DA95AEC7.tmp' to 'D:/1901692/root-game-jam/roots/Content/Blue_print/bp_root.uasset'
+[2023.02.03-18.24.38:490][403]AssetCheck: New page: Asset Save: bp_root
+[2023.02.03-18.24.38:490][403]LogContentValidation: Display: Validating Blueprint /Game/Blue_print/bp_root.bp_root
+[2023.02.03-18.24.43:265][815]BlueprintLog: New page: Compile bp_root
+[2023.02.03-18.24.43:387][815]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.02.03-18.24.44:091][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blue_print/bp_root" FILE="D:/1901692/root-game-jam/roots/Content/Blue_print/bp_root.uasset" SILENT=true
+[2023.02.03-18.24.44:119][842]LogSavePackage: Moving output files for package: /Game/Blue_print/bp_root
+[2023.02.03-18.24.44:121][842]LogSavePackage: Moving 'D:/1901692/root-game-jam/roots/Saved/bp_rootEBE268AE45AA5B25124E70979A5326FE.tmp' to 'D:/1901692/root-game-jam/roots/Content/Blue_print/bp_root.uasset'
+[2023.02.03-18.24.44:146][842]AssetCheck: New page: Asset Save: bp_root
+[2023.02.03-18.24.44:146][842]LogContentValidation: Display: Validating Blueprint /Game/Blue_print/bp_root.bp_root
+[2023.02.03-18.25.00:520][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.02.03-18.25.00:588][993]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/64/EIZJAMEUKQS6D28YIXDOYW
+[2023.02.03-18.25.00:590][993]LogSavePackage: Moving 'D:/1901692/root-game-jam/roots/Saved/EIZJAMEUKQS6D28YIXDOYWFA62EFDF42FE1AC753D55C909E39AE65.tmp' to 'D:/1901692/root-game-jam/roots/Content/__ExternalActors__/NewMap/3/64/EIZJAMEUKQS6D28YIXDOYW.uasset'
+[2023.02.03-18.25.00:596][993]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/MT/P99HZPSFCNV379GVQSXNLK
+[2023.02.03-18.25.00:598][993]LogSavePackage: Moving 'D:/1901692/root-game-jam/roots/Saved/P99HZPSFCNV379GVQSXNLKC120D86341D1E5067042098335E90048.tmp' to 'D:/1901692/root-game-jam/roots/Content/__ExternalActors__/NewMap/4/MT/P99HZPSFCNV379GVQSXNLK.uasset'
+[2023.02.03-18.25.00:601][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blue_print/WinBox" FILE="D:/1901692/root-game-jam/roots/Content/Blue_print/WinBox.uasset" SILENT=true
+[2023.02.03-18.25.00:605][993]LogSavePackage: Moving output files for package: /Game/Blue_print/WinBox
+[2023.02.03-18.25.00:605][993]LogSavePackage: Moving 'D:/1901692/root-game-jam/roots/Saved/WinBox857A9B884D0B6464AFD862A7B3B017A5.tmp' to 'D:/1901692/root-game-jam/roots/Content/Blue_print/WinBox.uasset'
+[2023.02.03-18.25.00:630][993]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.03-18.25.00:630][993]LogContentValidation: Display: Validating Blueprint /Game/Blue_print/WinBox.WinBox
+[2023.02.03-18.25.00:630][993]LogContentValidation: Display: Validating bp_root_C /Game/NewMap.NewMap:PersistentLevel.root_C_UAID_D89EF311EC46FF6201_1558751528
+[2023.02.03-18.25.00:630][993]LogContentValidation: Display: Validating BP_wind_C /Game/NewMap.NewMap:PersistentLevel.BP_wind_C_UAID_D89EF311EC460E6301_1232284173
